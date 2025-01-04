@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=bz_oWCcVTYQE
 clone the frontend branch
 
 ```bash
-  https://github.com/ikarthik21/EPS_FRONTEND.git -b frontend
+ git clone https://github.com/SriHarshaVardhanReddyEdla/eps.git
 ``` 
 
 Install dependencies
